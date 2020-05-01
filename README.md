@@ -1,5 +1,5 @@
-Rprogramming
-============
+Rprogr
+======
 ### Introduction
 
 This is a repository of the R programming assignments. 
